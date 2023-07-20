@@ -4,7 +4,7 @@ int main()
 {
     int a, b;
     cin >> a >> b;
-    cout << a + b << endl;
+    cout << "hello world learning git" << a + b << endl;
 
     return 0;
 }
